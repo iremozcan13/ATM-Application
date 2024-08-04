@@ -2,6 +2,7 @@
 Java ile yazılmış  basit bir ATM uygulaması geliştirdim.Kullanıcıların para yatırmalarına,çekmelerine ve bakiyelerini görüntüleyebilmelerine olanak tanır.
 
  #ÖZELLİKLER
+ 
  1-"Para Yatırma" özelliği ile istediğiniz miktarda para yatırabilirsiniz.
 
  
