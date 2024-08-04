@@ -14,6 +14,13 @@ Para Çekme
 Bakiye Sorgulama
 Çıkış
 ATM uygulamasını çalıştırmak için ekrandaki talimatları takip edin.
+
+
+
+
+
+
+
 ![Ekran görüntüsü 2024-08-04 150956](https://github.com/user-attachments/assets/7f79a400-a336-4022-9af7-43933c1acd9d)
 
 
