@@ -5,7 +5,7 @@ Java ile yazılmış  basit bir ATM uygulaması geliştirdim.Kullanıcıların p
  1-"Para Yatırma" özelliği ile istediğiniz miktarda para yatırabilirsiniz.
  2-"Para Çekme" özelliği ile 50 tl üstünü ve bakiyeniz kadar miktarda para çekebilirsiniz.
  3-"Bakiye Sorgulama" özelliği ile güncel bakiyenizi görüntüleyebilirsiniz.
- 4-"3 Deneme Hakkı" özelliği ile şifrenizi 3 kere hatalı girerseniz kartınız bloke edilir ve başa dönersiniz.
+ 4-"3 Deneme Hakkı" özelliği ile şifrenizi 3 kere hatalı girerseniz kartınız bloke edilir ve başa dönersiniz.Her yanlış girdiğiniz şifrede size kaç hakkınız kaldığını söyler.
 
  Uygulamayı çalıştırdığınızda, aşağıdaki menü seçenekleri ile karşılaşacaksınız:
 
